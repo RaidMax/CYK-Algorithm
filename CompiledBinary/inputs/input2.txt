@@ -1,0 +1,14 @@
+﻿3
+a b c
+8
+S: EF, AF, EB, AB
+X: AY, BY, a, b
+Y: AY, BY, a, b, c
+E: AX
+F: BX
+A: a
+B: b
+C: c
+2
+aaabbb
+baaab

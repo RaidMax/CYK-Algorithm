@@ -1,0 +1,18 @@
+﻿6
+a b + ^ ( )
+12
+S: XS, TY, AT, BT, ZR, a, b
+F: TY, AT, BT, a, b
+T: AT, BT, a, b
+X: TP
+Y: UF
+Z: LS
+A: a
+B: b
+P: +
+U: ^
+L: ( 
+R: )
+2
+aaaaa+bbbb
+b^a+aa+

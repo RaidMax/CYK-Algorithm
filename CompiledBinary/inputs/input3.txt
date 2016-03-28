@@ -1,0 +1,10 @@
+﻿2
+a b
+5
+S: AX, AY, a
+X: AX, a
+Y: BY, a
+A: a
+B:b
+1
+abba

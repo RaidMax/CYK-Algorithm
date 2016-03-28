@@ -1,0 +1,11 @@
+2
+a b
+5
+S: AT, AB
+T: XB
+X: AT, AB
+A: a
+B: b
+2
+aaabbb
+baaab
